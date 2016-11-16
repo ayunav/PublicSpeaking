@@ -4,7 +4,7 @@
 
 | Date        | Title | Where |
 | ----------- | ----- | ----- |
-| 15 Nov 2016 | [i18n & l10n: best practices][12] | [Brooklyn Swift Developers Meetup][13]
+| 15 Nov 2016 | [Internationalization & Localization: Best Practices][12] | [Brooklyn Swift Developers Meetup][13]
 | 31 Oct 2016 | [Career in Tech + Product Development Workshop][10] | [Brooklyn Prospect High School][11] |
 | 12 Oct 2016 | [Mobile Channels Feature Demo][8] | [Vimeo][9] Jam Internal Hackathon
 | 25 May 2016 | [Technical Blogging to Build Digital Presence][6] | [Twilio SIGNAL Developer Conference, San Francisco][7]
