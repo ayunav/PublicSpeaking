@@ -20,9 +20,9 @@
 [5]: http://www.meetup.com/WomenWhoCodeNYC/events/229477435/
 [6]: https://speakerdeck.com/ayunav/technical-blogging
 [7]: https://www.twilio.com/signal/schedule/4EbIvGdoakGkYWcckMygQK/technical-blogging-to-build-your-digital-presence
-[8]: 
+[8]: https://vimeo.com/191753749
 [9]: https://vimeo.com
 [10]: https://drive.google.com/file/d/0B9t_27Qd6AGsUVZsVkhLbXZuaTg/view?usp=sharing
 [11]: www.brooklynprospect.org
-[12]: 
+[12]: https://github.com/ayunav/PublicSpeaking/blob/master/BrooklynSwiftLocalization20161115/20161115_L10N_Bklyn_Swift.pdf
 [13]: http://www.meetup.com/Brooklyn-Swift-Developers/
