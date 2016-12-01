@@ -24,5 +24,5 @@
 [9]: https://vimeo.com
 [10]: https://drive.google.com/file/d/0B9t_27Qd6AGsUVZsVkhLbXZuaTg/view?usp=sharing
 [11]: www.brooklynprospect.org
-[12]: https://github.com/ayunav/PublicSpeaking/blob/master/BrooklynSwiftLocalization20161115/20161115_L10N_Bklyn_Swift.pdf
-[13]: http://www.meetup.com/Brooklyn-Swift-Developers/
+[12]: https://github.com/ayunav/PublicSpeaking/blob/master/BrooklynSwiftLocalization20161115/L10N_Bklyn_Swift.md
+[13]: https://www.meetup.com/Brooklyn-Swift-Developers/events/235308887/
