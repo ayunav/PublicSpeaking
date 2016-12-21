@@ -4,6 +4,7 @@
 
 | Date        | Title | Where |
 | ----------- | ----- | ----- |
+| 20 Dec 2016 | Network Like a Queen 💁🏻 | [C4Q NYC][14]
 | 15 Nov 2016 | [Internationalization & Localization: Best Practices][12] | [Brooklyn Swift Developers Meetup][13]
 | 06 Oct 2016 | [Career in Tech + Product Development Workshop][10] | [Brooklyn Prospect High School][11] |
 | 30 Sep 2016 | [Mobile Channels Feature Demo][8] | [Vimeo Jam Internal Hackathon][9]
@@ -26,3 +27,4 @@
 [11]: www.brooklynprospect.org
 [12]: https://github.com/ayunav/PublicSpeaking/blob/master/BrooklynSwiftLocalization20161115/L10N_Bklyn_Swift.md
 [13]: https://www.meetup.com/Brooklyn-Swift-Developers/events/235308887/
+[14]: http://www.c4q.nyc/accesscode
