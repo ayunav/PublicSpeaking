@@ -4,6 +4,7 @@
 
 | Date        | Title | Where |
 | ----------- | ----- | ----- |
+| 08 Mar 2017 | Speaker Series: Ayuna Vogel, AC 2.2 Alumnus | [C4Q NYC][14]
 | 05 Jan 2017 | iOS Expert Panel | [General Assembly][15]
 | 20 Dec 2016 | Network Like a Queen 💁🏻 | [C4Q NYC][14]
 | 15 Nov 2016 | [Internationalization & Localization: Best Practices][12] | [Brooklyn Swift Developers Meetup][13]
